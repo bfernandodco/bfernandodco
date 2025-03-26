@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Bruno Fernando!
 
-- 👔 Estagiário de Desenvolvimento de Software - Bradesco S.A.
+- 👔 Engenheiro de Software - Bradesco S.A.
 - 👨‍💻 Análise e Desenvolvimento de Sistemas - FIAP
 - 🔍 Em Iniciação Científica na FIAP
 
